@@ -81,3 +81,4 @@ Finally, reset all kubeadm installed state using `reset-site.yaml` playbook:
 ```sh
 $ ansible-playbook reset-site.yaml
 ```
+# K8s
